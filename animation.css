@@ -1,0 +1,64 @@
+@keyframes l-one {
+    from {
+        transform: translateX(-550px);
+    }
+
+    to {
+        transform: translateX(0px);
+
+    }
+}
+
+@keyframes bottom-first-con {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes navbar{
+    from{
+        opacity: 0;
+    }
+    
+    to{
+        opacity: 1;
+    }
+}
+
+@keyframes right-fs{
+    from{
+        transform: translateX(1200px);
+    }
+
+    to{
+        transform: translateX(0px);
+
+    }
+}
+
+@keyframes rocket{
+    from{
+        transform: translateY(-20px);
+    }
+
+    to{
+        transform: translateY(20px);
+    }
+}
+
+@keyframes chart-tc{
+    from{
+        transform: translateY(-10px);
+        
+    }
+
+    to{
+        transform: translateY(10px);
+
+    }
+}
+
